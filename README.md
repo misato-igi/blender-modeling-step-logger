@@ -1,7 +1,3 @@
-# blender-modeling-step-logger
-Blender操作記録アドオン
-# Blender操作記録アドオン（卒業研究用）
-
 卒業研究「Blenderにおける3Dモデリング手法の効率比較 ― 取手付きコップの制作を事例として ―」で使用する記録ツール。
 
 - 対応：Blender 4.5 LTS
